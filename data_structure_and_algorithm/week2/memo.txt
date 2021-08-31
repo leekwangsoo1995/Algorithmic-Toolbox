@@ -1,0 +1,8 @@
+memo:
+    Started 2week lesson.
+    I learned:
+        Naive Fibonacchi(used recursive function)
+        Efficient Fibonacchi(used recursive, but preserved former variables)
+        Naive Greatest common divisor(calculate one by one)
+        Effficient Greatest common divisor(used euclid function)
+        What is Big O Notation.(Processing time is depends on machine.That's why people use Big O Notation.)
