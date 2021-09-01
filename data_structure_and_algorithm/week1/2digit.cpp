@@ -1,3 +1,5 @@
+//g++ -o out 2digit.cpp
+
 #include <cstdio>
 #include <iostream>
 int main() {

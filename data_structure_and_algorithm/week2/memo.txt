@@ -6,3 +6,5 @@ memo:
         Naive Greatest common divisor(calculate one by one)
         Effficient Greatest common divisor(used euclid function)
         What is Big O Notation.(Processing time is depends on machine.That's why people use Big O Notation.)
+        Tried algorithms on site.(https://www.coursera.org/learn/algorithmic-toolbox/ungradedLab/Qmv41/big-o-notation-plots/lab?path=%2Fnotebooks%2Fbigo.ipynb%23Big-O-Notation%3A-Plots)
+        
