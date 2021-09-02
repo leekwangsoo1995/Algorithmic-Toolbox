@@ -23,13 +23,11 @@ int fibonacci_naive(int n) {
 }
 
 int fibonacci_fast(int n) {
-    // write your code here
-    std::vector<int> input;
-    for(int i=0;i<n; ++i){
-        input.push_back(i);
+
+    std::vector<int> v;
+    for(int i=2;i<n; ++i){
     }
-    //fib firstは先に必要分だけ配列を作って、それぞれ配列を使って計算をしていくだけで良い。
-    //実装は明日から行う。
+    std::cout << v[1] << '\n';
 
     return 0;
 }
@@ -45,8 +43,8 @@ int main() {
     int n = 0;
     std::cin >> n;
 
-    std::cout << fibonacci_naive(n) << '\n';
+    //std::cout << fibonacci_naive(n) << '\n';
     //test_solution();
-    //std::cout << fibonacci_fast(n) << '\n';
+    std::cout << fibonacci_fast(n) << '\n';
     return 0;
 }
