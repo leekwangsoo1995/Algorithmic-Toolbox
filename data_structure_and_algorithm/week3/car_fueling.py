@@ -9,7 +9,7 @@ def compute_min_refills(distance, tank, stops):
     if (distance - tank) < 0:
         return 0
     for stop in stops:
-        stop = int(stop)
+        stop = float(stop)
         dis = stop - prev_stop
         if dis > tank and dis > full_tank:
             return -1
@@ -21,7 +21,7 @@ def compute_min_refills(distance, tank, stops):
             prev_stop = stop
 
     distance = distance - stop
-    if (distance - tank) < 0:
+    if (distance - tank) <= 0:
         return count
     else:
         if distance > full_tank:
@@ -34,4 +34,4 @@ m = int(input())
 n = int(input())
 stops = input().split()
 
-print(compute_min_refills(d, m, stops))
+print(int(compute_min_refills(d, m, stops)))
