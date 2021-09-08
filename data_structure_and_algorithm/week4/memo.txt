@@ -1,0 +1,3 @@
+memo:
+    Started 4thweek lesson.
+	Learned:Linera search,Binary search.
