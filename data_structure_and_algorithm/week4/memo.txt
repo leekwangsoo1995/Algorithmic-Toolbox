@@ -1,3 +1,7 @@
 memo:
     Started 4thweek lesson.
 	Learned:Linera search,Binary search.
+            polynomial multiplication→naive solution
+                                      naive divide and conquer algorithm
+                                      faster divide and conquer algorithm
+            Master Theorem
