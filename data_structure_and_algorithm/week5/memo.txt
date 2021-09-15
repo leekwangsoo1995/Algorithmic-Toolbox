@@ -1,0 +1,5 @@
+memo:
+    Started 5thweek lesson.
+	Learned:Coin Change greedy algorithm
+        http://www.cs.bilkent.edu.tr/~calkan/teaching/cs481/slides/cs481-Week1.2.pdf
+        ⇨This site is useful for solving two rock problem
