@@ -3,3 +3,6 @@ memo:
 	Learned:Coin Change greedy algorithm
         http://www.cs.bilkent.edu.tr/~calkan/teaching/cs481/slides/cs481-Week1.2.pdf
         ⇨This site is useful for solving two rock problem
+        http://bix.ucsd.edu/bioalgorithms/book/introduction.pdf
+        ⇨This site was also useful
+        Solving three rock problem
