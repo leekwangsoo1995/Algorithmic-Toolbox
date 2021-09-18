@@ -6,3 +6,5 @@ memo:
         http://bix.ucsd.edu/bioalgorithms/book/introduction.pdf
         ⇨This site was also useful
         Solving three rock problem
+        ⇨To solve this problem, It requires me to think problem simply.
+         Two piles is not important, just need to think there are 20 rocks and player can take 3 rocks.
